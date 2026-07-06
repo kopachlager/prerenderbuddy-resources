@@ -8,7 +8,7 @@ This repository is not the Prerender Buddy application source code. It does not 
 
 ## Who This Is For
 
-- Founders shipping React, Vite, Vue, Lovable, Bolt, Base44, or similar sites
+- Founders shipping React, Vite, Vue, Lovable, Bolt, Base44, Replit, v0, Tempo, YouWare, Shipper.now, or similar sites
 - Agencies maintaining client websites on modern frontend stacks
 - Developers checking whether bots receive useful HTML
 - SEO freelancers debugging JavaScript rendering issues
@@ -35,6 +35,12 @@ See the [`tools`](./tools/) folder for plain-language notes about each tool.
 
 - [Lovable](./examples/lovable.md)
 - [Bolt](./examples/bolt.md)
+- [Replit Agent / Replit Apps](./examples/replit.md)
+- [v0 by Vercel](./examples/v0.md)
+- [Anything / Create](./examples/anything-create.md)
+- [Tempo](./examples/tempo.md)
+- [YouWare](./examples/youware.md)
+- [Shipper.now](./examples/shipper-now.md)
 - [React and Vite](./examples/react-vite.md)
 - [Netlify](./examples/netlify.md)
 - [Vercel](./examples/vercel.md)
@@ -65,4 +71,3 @@ See the [`tools`](./tools/) folder for plain-language notes about each tool.
 ## What This Repo Does Not Do
 
 This repo does not promise rankings, traffic, or AI citations. It explains a technical visibility problem: whether search engines and AI crawlers receive readable HTML instead of an empty or thin JavaScript shell.
-

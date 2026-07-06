@@ -13,3 +13,20 @@ Each example covers:
 
 Start here if a site looks correct in the browser but search engines and AI crawlers may receive a thin JavaScript shell.
 
+## AI Builders And Hosted Builders
+
+- [Lovable](./lovable.md)
+- [Bolt](./bolt.md)
+- [Replit Agent / Replit Apps](./replit.md)
+- [v0 by Vercel](./v0.md)
+- [Anything / Create](./anything-create.md)
+- [Tempo](./tempo.md)
+- [YouWare](./youware.md)
+- [Shipper.now](./shipper-now.md)
+
+## Frontend And Hosting
+
+- [React and Vite](./react-vite.md)
+- [Netlify](./netlify.md)
+- [Vercel](./vercel.md)
+- [Cloudflare](./cloudflare.md)
