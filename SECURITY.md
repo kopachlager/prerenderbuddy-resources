@@ -6,5 +6,4 @@ Do not open public issues for sensitive product, account, billing, or security r
 
 For security-related reports, contact Prerender Buddy through the official website:
 
-https://prerenderbuddy.com
-
+https://prerenderbuddy.com/contact

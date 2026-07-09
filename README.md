@@ -64,9 +64,11 @@ See the [`tools`](./tools/) folder for plain-language notes about each tool.
 ## Official Links
 
 - Website: https://prerenderbuddy.com
+- About: https://prerenderbuddy.com/about
 - Docs: https://prerenderbuddy.com/docs
 - Blog: https://prerenderbuddy.com/blog
 - Free tools: https://prerenderbuddy.com/tools
+- Contact: https://prerenderbuddy.com/contact
 
 ## What This Repo Does Not Do
 
