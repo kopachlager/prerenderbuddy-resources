@@ -29,10 +29,13 @@ This repository is not the Prerender Buddy application source code. It does not 
 - [Raw vs Rendered HTML Comparer](https://prerenderbuddy.com/tools)
 - [JavaScript SEO Score](https://prerenderbuddy.com/tools)
 - [Robots and llms.txt Checker](https://prerenderbuddy.com/tools)
+- [Bulk Crawler Readability Checker](https://prerenderbuddy.com/tools/bulk-crawler-checker)
 
 See the [`tools`](./tools/) folder for plain-language notes about each tool.
 
 Chrome extension details: [`tools/chrome-extension.md`](./tools/chrome-extension.md)
+
+Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk-crawler-readability-checker.md)
 
 ## Platform Examples
 
