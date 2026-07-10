@@ -19,7 +19,7 @@ This repository is not the Prerender Buddy application source code. It does not 
 - The page looks complete in a browser, but bots receive a thin JavaScript shell
 - Metadata or social previews are missing for crawler-style requests
 - Search engines and AI crawlers cannot see important headings, copy, or links
-- A site is hosted on Vercel, Netlify, Cloudflare, Lovable, or Bolt but still serves client-rendered HTML
+- A site is hosted on Vercel, Netlify, Cloudflare, Lovable, Bolt, shared hosting, or a VPS but still serves client-rendered HTML
 - Root and `www` hostnames are configured differently
 
 ## Free Tools
@@ -56,6 +56,7 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 
 - [Audit crawler readability across an XML sitemap](https://prerenderbuddy.com/blog/audit-crawler-readability-xml-sitemap)
 - [Five free tools to check what crawlers see](https://prerenderbuddy.com/blog/free-tools-check-what-crawlers-see)
+- [Traditional hosting, cPanel, and VPS setup](./guides/traditional-hosting-and-vps.md)
 - [JavaScript SEO](./guides/javascript-seo.md)
 - [AI Crawlers](./guides/ai-crawlers.md)
 - [Rendered HTML](./guides/rendered-html.md)
