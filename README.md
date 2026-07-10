@@ -24,12 +24,15 @@ This repository is not the Prerender Buddy application source code. It does not 
 
 ## Free Tools
 
+- [Prerender Buddy Chrome Extension](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi)
 - [Bot View Checker](https://prerenderbuddy.com/tools)
 - [Raw vs Rendered HTML Comparer](https://prerenderbuddy.com/tools)
 - [JavaScript SEO Score](https://prerenderbuddy.com/tools)
 - [Robots and llms.txt Checker](https://prerenderbuddy.com/tools)
 
 See the [`tools`](./tools/) folder for plain-language notes about each tool.
+
+Chrome extension details: [`tools/chrome-extension.md`](./tools/chrome-extension.md)
 
 ## Platform Examples
 
@@ -68,6 +71,7 @@ See the [`tools`](./tools/) folder for plain-language notes about each tool.
 - Docs: https://prerenderbuddy.com/docs
 - Blog: https://prerenderbuddy.com/blog
 - Free tools: https://prerenderbuddy.com/tools
+- Chrome extension: https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi
 - Contact: https://prerenderbuddy.com/contact
 
 ## What This Repo Does Not Do
