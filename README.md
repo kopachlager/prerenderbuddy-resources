@@ -56,6 +56,7 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 ## Guides
 
 - [AI website builder SEO and crawler-readability checklist](https://prerenderbuddy.com/blog/ai-website-builder-seo-crawler-readability)
+- [Rendering safety](./guides/rendering-safety.md)
 - [Audit crawler readability across an XML sitemap](https://prerenderbuddy.com/blog/audit-crawler-readability-xml-sitemap)
 - [Five free tools to check what crawlers see](https://prerenderbuddy.com/blog/free-tools-check-what-crawlers-see)
 - [Traditional hosting, cPanel, and VPS setup](./guides/traditional-hosting-and-vps.md)
