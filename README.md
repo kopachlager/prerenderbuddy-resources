@@ -41,6 +41,7 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 
 - [Lovable](./examples/lovable.md)
 - [Bolt](./examples/bolt.md)
+- [Base44](./examples/base44.md)
 - [Replit Agent / Replit Apps](./examples/replit.md)
 - [v0 by Vercel](./examples/v0.md)
 - [Anything / Create](./examples/anything-create.md)
@@ -54,6 +55,7 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 
 ## Guides
 
+- [AI website builder SEO and crawler-readability checklist](https://prerenderbuddy.com/blog/ai-website-builder-seo-crawler-readability)
 - [Audit crawler readability across an XML sitemap](https://prerenderbuddy.com/blog/audit-crawler-readability-xml-sitemap)
 - [Five free tools to check what crawlers see](https://prerenderbuddy.com/blog/free-tools-check-what-crawlers-see)
 - [Traditional hosting, cPanel, and VPS setup](./guides/traditional-hosting-and-vps.md)
