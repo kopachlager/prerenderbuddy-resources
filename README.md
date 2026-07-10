@@ -54,6 +54,8 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 
 ## Guides
 
+- [Audit crawler readability across an XML sitemap](https://prerenderbuddy.com/blog/audit-crawler-readability-xml-sitemap)
+- [Five free tools to check what crawlers see](https://prerenderbuddy.com/blog/free-tools-check-what-crawlers-see)
 - [JavaScript SEO](./guides/javascript-seo.md)
 - [AI Crawlers](./guides/ai-crawlers.md)
 - [Rendered HTML](./guides/rendered-html.md)
