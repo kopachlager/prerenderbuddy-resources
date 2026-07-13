@@ -4,6 +4,8 @@ This repository contains public documentation and examples only. It does not con
 
 Do not open public issues for sensitive product, account, billing, or security reports.
 
-For security-related reports, contact Prerender Buddy through the official website:
+Review the public technical security overview and reporting instructions:
 
-https://prerenderbuddy.com/contact
+https://prerenderbuddy.com/security
+
+The overview documents implemented controls and current limitations. It is not a certification or independent security audit.

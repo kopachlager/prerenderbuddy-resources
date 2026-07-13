@@ -29,5 +29,6 @@ A crawler-rendering setup should be rechecked after DNS, hosting, origin, routin
 - [Diagnosing root vs www mismatches](https://prerenderbuddy.com/blog/diagnose-root-www-hostname-mismatch)
 - [Social preview bots and JavaScript websites](https://prerenderbuddy.com/blog/social-preview-bots-javascript-websites)
 - [Operations and monitoring topic hub](https://prerenderbuddy.com/blog/topics/operations-monitoring)
+- [Failure and fallback behavior](https://prerenderbuddy.com/failure-behavior)
 
 Healthy monitoring confirms the technical response path. It does not guarantee indexing, rankings, traffic, previews, or AI mentions.

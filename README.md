@@ -82,6 +82,11 @@ Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk
 - Docs: https://prerenderbuddy.com/docs
 - Blog: https://prerenderbuddy.com/blog
 - Free tools: https://prerenderbuddy.com/tools
+- Crawler support: https://prerenderbuddy.com/crawler-support
+- Technical evidence: https://prerenderbuddy.com/evidence
+- Security: https://prerenderbuddy.com/security
+- Data processing: https://prerenderbuddy.com/data-processing
+- Failure behavior: https://prerenderbuddy.com/failure-behavior
 - Chrome extension: https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi
 - Contact: https://prerenderbuddy.com/contact
 
