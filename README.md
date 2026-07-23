@@ -24,6 +24,7 @@ This repository is not the Prerender Buddy application source code. It does not 
 
 ## Free Tools
 
+- [Prerender Buddy CLI](https://github.com/kopachlager/prerenderbuddy-cli) — open-source local and CI diagnostics for crawler-readable HTML and discovery files
 - [Prerender Buddy Chrome Extension](https://chromewebstore.google.com/detail/prerenderbuddy/nfcnbflceplmhoamoehcfojmgdmkjegi)
 - [Bot View Checker](https://prerenderbuddy.com/tools)
 - [Raw vs Rendered HTML Comparer](https://prerenderbuddy.com/tools)
@@ -36,6 +37,10 @@ See the [`tools`](./tools/) folder for plain-language notes about each tool.
 Chrome extension details: [`tools/chrome-extension.md`](./tools/chrome-extension.md)
 
 Bulk scanner details: [`tools/bulk-crawler-readability-checker.md`](./tools/bulk-crawler-readability-checker.md)
+
+The CLI is free to use locally without an account or telemetry. It diagnoses public
+responses but does not include the managed rendering engine, scheduled monitoring,
+DNS/proxy onboarding, crawler routing, or production incident history.
 
 ## Platform Examples
 
